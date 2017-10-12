@@ -77,8 +77,6 @@ namespace OpenTokForms.iOS
     {
         VideoChatView _videoChatView;
 
-        // *** Fill the following variables using your own Project info from the Dashboard  ***
-        // *** https://dashboard.tokbox.com/projects  
         string API_KEY = "45967692";
         string SESSION_ID = "2_MX40NTk2NzY5Mn5-MTUwNjUxODgzNTQ0NX5aNWRHcFB0Mk1YU29vYitVbXcralFNRkN-fg";
         string TOKEN = "T1==cGFydG5lcl9pZD00NTk2NzY5MiZzaWc9Y2E3MGMzYTZhMGE1YWZlNTI4ZWVmZjJmNTY1YjM0OGI0YzYzZDAxYzpzZXNzaW9uX2lkPTJfTVg0ME5UazJOelk1TW41LU1UVXdOalV4T0Rnek5UUTBOWDVhTldSSGNGQjBNazFZVTI5dllpdFZiWGNyYWxGTlJrTi1mZyZjcmVhdGVfdGltZT0xNTA2NTE4ODkwJm5vbmNlPTAuNjIyOTE1MjAyMjk4MzI1MSZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTA5MTEwODg4JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9";

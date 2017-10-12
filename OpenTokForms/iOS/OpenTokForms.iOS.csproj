@@ -136,7 +136,8 @@
     </Compile>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-        <Compile Include="VideoChatView.cs" />
+    <Compile Include="Services\OpenTokConnector.cs" />
+    <Compile Include="VideoChatView.cs" />
     <Compile Include="VideoChatView.designer.cs">
       <DependentUpon>VideoChatView.cs</DependentUpon>
     </Compile>
